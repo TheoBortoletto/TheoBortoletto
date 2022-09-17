@@ -2,7 +2,7 @@
 
   - 💻 Cursando Ciência da Computação
   - 🏫 Estudo no Centro Universitário Senac Santo Amaro
-  - 📖 Contate-me no e-mail: theo.bortoletto@gmail.com
+  - 📖 Contate-me no e-mail: theo.hgb@hotmail.com
   - 🎧 "Music is the answer"
 
 <div align="center">
