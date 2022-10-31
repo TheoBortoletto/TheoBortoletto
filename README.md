@@ -1,4 +1,4 @@
-## Olá! eu sou o Théo Bortoletto
+## Olá! Me chamo Théo Bortoletto
 
   - 💻 Cursando Ciência da Computação
   - 🏫 Estudo no Centro Universitário Senac Santo Amaro
