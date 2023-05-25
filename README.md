@@ -22,12 +22,12 @@
 <table><tr>
 
 ## Github Stats:
-  <div>
-<img src="https://github-readme-stats.vercel.app/api?username=TheoBortoletto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="190" alt="stats graph" align="left"/>  
-
-<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoBortoletto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph" align="center" /></div>
-  </div>
-  
+ <div align="center">
+  <a href="https://github.com/TheoBortoletto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoBortoletto&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBortoletto&layout=compact&langs_count=7&theme=ocean_dark&"/>
+</div>
+   
 <br></br>
 <br></br>
 
