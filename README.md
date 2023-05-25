@@ -22,9 +22,11 @@
 <table><tr>
 
 ## Github Stats:
+  <div>
 <img src="https://github-readme-stats.vercel.app/api?username=TheoBortoletto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="190" alt="stats graph" align="left"/>  
 
 <div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoBortoletto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph" align="center" /></div>
+  </div>
   
 <br></br>
 <br></br>
