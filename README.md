@@ -12,9 +12,7 @@
   
 
 - 🕷 Fun fact: I love Spider-Man  
-  
-
-<br/>  
+ 
 
 
 ## Github Stats  
