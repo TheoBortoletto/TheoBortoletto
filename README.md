@@ -1,6 +1,7 @@
 ### <div align="center"><h3>I´m Théo Bortoletto, a Computer Science student 👨‍💻</h3>
 </div>  
   
+  <br></br>
 
 - 🔭 I’m currently working on [PI - Cartagena](https://github.com/henriquemcmedeiros/CartagenaPI.git)  
   
