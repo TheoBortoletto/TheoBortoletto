@@ -82,5 +82,8 @@
 <br/>  
 
 <br />
+  
+    ![Snake animation](https://github.com/TheoBortoletto/TheoBortoletto/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
