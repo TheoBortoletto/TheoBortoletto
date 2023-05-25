@@ -1,4 +1,4 @@
-### <div align="center">I´m Théo Bortoletto, a Computer Science student 👨‍💻
+### <div align="center"><h3>I´m Théo Bortoletto, a Computer Science student 👨‍💻</h3>
 </div>  
   
 
