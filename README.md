@@ -30,7 +30,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBortoletto&layout=compact&langs_count=6&theme=ocean_dark&"/>
 </div>
    
-<br></br>
+<br align="center"> 
+  
+   ![Snake animation](https://github.com/theobortoletto/theobortoletto/blob/output/github-contribution-grid-snake.svg) 
+   
+ </br>
 
 ## My Skill Set:  
 <table><tr><td valign="top" width="33%">
@@ -83,7 +87,6 @@
 
 <br />
   
-    ![Snake animation](https://github.com/TheoBortoletto/TheoBortoletto/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
