@@ -1,14 +1,15 @@
-## Olá! Me chamo Théo Bortoletto
+## Hi, I´m Théo Bortoletto
 
-  - 💻 Cursando Ciência da Computação
-  - 🏫 Estudo no Centro Universitário Senac Santo Amaro
-  - 📖 Contate-me no e-mail: theo.hgb@hotmail.com
-  - 🎧 "Music is the answer"
+  - 💻 I'm currently studying Computer Science
+  - 📖 You can reach me on: theo.hgb@hotmail.com
+  - 🌱 I’m currently learning C# and Python
+  - 🕷 Fun fact: I love Spider-Man
 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheoBortoletto&color=yellow" alt="Profile views" /> </p>-->
 <div align="center">
   <a href="https://github.com/TheoBortoletto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoBortoletto&show_icons=false&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBortoletto&layout=compact&langs_count=5&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoBortoletto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBortoletto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   </div>
