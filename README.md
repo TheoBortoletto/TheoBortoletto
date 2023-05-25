@@ -24,13 +24,12 @@
 
 </br>
 
+  <div>
 ## My Skill Set  
-<br>
-
-</br>
-
 
 <table><tr><td valign="top" width="33%">
+  
+  </div>
 
 
 
