@@ -22,13 +22,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBortoletto&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-  
-
+  ## My Skill Set  
+<table><tr><td valign="top" width="33%">
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 
 
