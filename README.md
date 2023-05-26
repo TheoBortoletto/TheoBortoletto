@@ -26,8 +26,8 @@
 
  <div align="center">
   <a href="https://github.com/TheoBortoletto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoBortoletto&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBortoletto&layout=compact&langs_count=6&theme=ocean_dark&"/>
+  <img height="180em" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=TheoBortoletto&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=ocean_dark&" alt="TheoBortoletto's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBortoletto&layout=compact&langs_count=7&theme=ocean_dark&"/>
 </div>
    
 <br align="center"> 
