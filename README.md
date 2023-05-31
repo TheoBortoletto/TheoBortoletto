@@ -62,7 +62,7 @@
 
 ### 
    
-<div align="left"> 
+<div align="center"> 
   
    ![Snake animation](https://github.com/theobortoletto/theobortoletto/blob/output/github-contribution-grid-snake.svg) 
    
