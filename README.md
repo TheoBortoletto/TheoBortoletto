@@ -24,10 +24,10 @@
 
 ## Github Stats:
 
- <div align="center">
-  <a href="https://github.com/TheoBortoletto">
-  <img height="170em" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app//api?username=TheoBortoletto&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=ocean_dark&" alt="TheoBortoletto's github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoBortoletto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=ocean_dark&hide_border=false&order=2" height="170em" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheoBortoletto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoBortoletto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 </div>
   
