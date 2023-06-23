@@ -38,6 +38,7 @@
 <div align="center">
 
   <a href="https://www.python.org/">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   </a>
 
