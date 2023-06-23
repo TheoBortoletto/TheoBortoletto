@@ -37,13 +37,12 @@
 
 <div align="center">
 
-  <span style="visibility: hidden;">
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  </a>
-  </span>
-  
   <img width="12" />
+  </a>
+
+  
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
