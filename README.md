@@ -47,27 +47,47 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   </a>
 
+  <a href="https://www.css3.com/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  </a>
 
+  <a href="https://www.javascript.com/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  </a>
+
+  <a href=">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+
+
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+
+
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
+
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+
   
 </div>
 
