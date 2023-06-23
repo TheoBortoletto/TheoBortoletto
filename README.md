@@ -87,9 +87,10 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   </a>
 
+  <a href="https://www.ableton.com/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
-
+  </a>
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
