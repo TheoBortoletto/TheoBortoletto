@@ -92,9 +92,10 @@
   <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
   </a>
 
+  <a href="https://www.adobe.com/products/premiere.html">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-
+  </a>
   
 </div>
 
