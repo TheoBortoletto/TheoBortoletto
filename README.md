@@ -57,10 +57,12 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   </a>
 
-  <a href=">
+  <a href="https://www.learn-c.org/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <a>
 
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 
