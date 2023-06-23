@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  <a href="https://www.python.org/>
+  <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   </a>
 
