@@ -72,9 +72,10 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   </a>
 
+  <a href="https://www.latex-project.org/">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
-
+  </a>
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
