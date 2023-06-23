@@ -77,10 +77,12 @@
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
   </a>
 
+  <a href="https://www.figma.com/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  </a>
 
-
+  <a href=">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 
