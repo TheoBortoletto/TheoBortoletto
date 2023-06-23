@@ -40,11 +40,15 @@
   <a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   </a>
-  
+
+  <a href="https://html5.org/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  </a>
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
