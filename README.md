@@ -82,10 +82,10 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   </a>
 
-  <a href=">
+  <a href="https://www.canva.com/">
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-
+  </a>
 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
