@@ -67,10 +67,10 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   </a>
 
-  
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-
+  </a>
 
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
