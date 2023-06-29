@@ -3,7 +3,7 @@
   
   <br></br>
 
-- 🔭 I’m currently working on [Python - Exercises](https://github.com/TheoBortoletto/Python-Exercices.git)  
+- 🔭 I’m currently woprking on [Python - Exercises](https://github.com/TheoBortoletto/Python-Exercices.git)  
   
 
 - 🌱 I’m currently learning C# and Python  
