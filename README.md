@@ -57,6 +57,16 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   </a>
 
+  <a href="https://www.swift.org/">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
+  </a>
+
+  <a href="https://kotlinlang.org/">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  </a>
+
   <a href="https://www.learn-c.org/">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
