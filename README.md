@@ -1,4 +1,4 @@
-### <div align="center"><h3>I´m Théo Bortoletto, a Computer Science student 👨‍💻 <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" height = "32px" width="25.7px"> </h3>
+### <div align="center"><h3>I´m Théo Bortoletto, a Computer Science student 👨‍💻 <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="26px"> </h3>
 </div>  
   
   <br></br>
