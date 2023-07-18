@@ -116,11 +116,11 @@
 
 ### 
    
-<div align="center"> 
+<!-- <div align="center"> 
   
    ![Snake animation](https://github.com/theobortoletto/theobortoletto/blob/output/github-contribution-grid-snake.svg) 
    
- </div>
+ </div> -->
    
 ## Connect with me: 
 <div align="center">
