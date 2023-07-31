@@ -3,7 +3,7 @@
   
   <br></br>
 
-- 🔭 I’m currently working on [Learning Go](https://github.com/TheoBortoletto/Learning-Go)
+- 🔭 I’m currently working on [Learning JavaScript](https://github.com/TheoBortoletto/Learning-JavaScript)
   
 
 - 🌱 I’m currently learning C# and Python  
