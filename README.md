@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Learning JavaScript](https://github.com/TheoBortoletto/Learning-JavaScript)
   
-ç
+
 - 🌱 I’m currently learning C# and Python  
   
 
