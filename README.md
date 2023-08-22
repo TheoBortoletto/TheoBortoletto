@@ -1,4 +1,4 @@
-## <div align="center"><h3>I´m Théo Bortoletto, a Computer Science student! 👨‍💻</h3>s
+## <div align="center"><h3>I´m Théo Bortoletto, a Computer Science student! 👨‍💻</h3>
 </div>  
   
   <br></br>
