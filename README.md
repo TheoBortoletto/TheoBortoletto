@@ -1,13 +1,7 @@
-## <div align="center"><h3>I´m Théo Bortoletto, a Computer Science student! 👨‍💻</h3>
+## <div align="center"><h3>I´m Théo Bortoletto, an Information Systems student! 👨‍💻</h3>
 </div>  
   
   <br></br>
-
-- 🔭 I’m currently working on [Learning JavaScript](https://github.com/TheoBortoletto/Learning-JavaScript)
-  
-
-- 🌱 I’m currently learning C# and Python  
-  
 
 - 📖 You can reach me on: theo.hgb@hotmail.com  
   
