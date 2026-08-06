@@ -86,25 +86,13 @@
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
   </a>
 
-  <a href="https://www.figma.com/">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  </a>
+ 
 
-  <a href="https://www.canva.com/">
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  </a>
+  
 
-  <a href="https://www.ableton.com/">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
-  </a>
+ 
 
-  <a href="https://www.adobe.com/products/premiere.html">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  </a>
+ 
   
 </div>
 
@@ -123,10 +111,6 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/th%C3%A9o-bortoletto-862928250/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ghetti.wav" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=purple alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
    
 ###
